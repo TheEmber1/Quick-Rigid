@@ -1,0 +1,17 @@
+schema_version = "1.0.0"
+
+id = "Quick_Rigid"
+version = "1.1.0"
+name = "Quick Rigid"
+tagline = "Easy access to the most used rigid body settings"
+maintainer = "THE EMBER <theember01@protonmail.com>"
+# Supported types: "add-on", "theme"
+type = "add-on"
+
+tags = ["Physics", "Object"]
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
