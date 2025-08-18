@@ -77,4 +77,4 @@ GPL-3.0-or-later
 ## Links
 
 - [Report a Bug](https://github.com/TheEmber1/Quick-Rigid/issues)
-- [YouTube Channel](https://www.youtube.com/@The_Ember)
+- [YouTube Channel](https://www.youtube.com/@supernova-3D)
