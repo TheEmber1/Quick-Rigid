@@ -1,10 +1,10 @@
 schema_version = "1.0.0"
 
 id = "Quick_Rigid"
-version = "1.1.0"
+version = "1.2.1"
 name = "Quick Rigid"
 tagline = "Easy access to the most used rigid body settings"
-maintainer = "THE EMBER <theember01@protonmail.com>"
+maintainer = "Nova 3D <theember01@protonmail.com>"
 # Supported types: "add-on", "theme"
 type = "add-on"
 

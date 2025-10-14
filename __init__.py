@@ -2,8 +2,8 @@ import bpy
 
 bl_info = {
     "name": "Quick Rigid",
-    "author": "THE EMBER",
-    "version": (1, 1, 0),
+    "author": "Nova 3D",
+    "version": (1, 2, 1),
     "blender": (4, 0, 0),
     "location": "View3D > Press U",
     "description": "Speeds up the Rigid Body workflow with a convenient menu",
