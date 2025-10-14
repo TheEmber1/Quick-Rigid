@@ -1,6 +1,6 @@
 # Quick Rigid
 
-![Quick Rigid Logo](assets/QuickRigidLogoColor.png)
+![Quick Rigid Logo](assets/QuickRigidLogo.png)
 
 ## Overview
 
@@ -19,11 +19,6 @@ Quick Rigid is a Blender addon that streamlines the rigid body workflow, providi
 
 ## Usage
 
-### Floating Menu
-- Press `U` (default shortcut, can be changed in settings) in the 3D View to open the Quick Rigid floating menu
-- Quickly add active or passive rigid bodies to selected objects
-- Access common settings like collision shape, mass, friction, and bounciness
-
 ### N-Panel
 - Open the N-panel in the 3D View (press `N`)
 - Select the "Quick Rigid" tab
@@ -33,6 +28,7 @@ Quick Rigid is a Blender addon that streamlines the rigid body workflow, providi
   - Save and load presets
   - Bake simulations
   - Adjust cache settings
+  - And more
 
 ### Rigid Body Presets
 1. Set up a rigid body with your desired settings
@@ -54,7 +50,11 @@ Quick Rigid is a Blender addon that streamlines the rigid body workflow, providi
 
 ## Version History
 
-### 1.2.0 (Current)
+### 1.2.1 (Current)
+- Updated author branding from "THE EMBER" to "Nova 3D" (Rebranding)
+- Updated YouTube channel link to youtube.com/@supernova-3D
+
+### 1.2.0
 - Added customizable keyboard shortcuts
 - Added floating menu toggle option
 - UI improvements and bug fixes
@@ -68,7 +68,7 @@ Quick Rigid is a Blender addon that streamlines the rigid body workflow, providi
 
 ## Credits
 
-Created by THE EMBER
+Created by Nova 3D
 
 ## License
 

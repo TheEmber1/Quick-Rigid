@@ -351,7 +351,7 @@ class VIEW3D_PT_QuickRigid(bpy.types.Panel):
             # YouTube link
             youtube_row = col.row()
             youtube_op = youtube_row.operator("wm.url_open", text="YouTube Channel", icon='URL')
-            youtube_op.url = "https://www.youtube.com/@The_Ember"
+            youtube_op.url = "https://www.youtube.com/@supernova-3D"
             
             # Credits section with version info moved above
             col.separator()
@@ -359,12 +359,12 @@ class VIEW3D_PT_QuickRigid(bpy.types.Panel):
             # Version info
             version_row = col.row()
             version_row.alignment = 'CENTER'
-            version_row.label(text="Quick Rigid v1.2.0")
+            version_row.label(text="Quick Rigid v1.2.1")
             
             # Creator credit
             credit_row = col.row()
             credit_row.alignment = 'CENTER'
-            credit_row.label(text="Created by THE EMBER")
+            credit_row.label(text="Created by Nova 3D")
 
 # List of classes to register
 classes = [
